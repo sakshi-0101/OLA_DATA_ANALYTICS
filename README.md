@@ -47,7 +47,7 @@ The Power BI dashboard (`ola_dashboard.pbix`) visualizes:
 1. Import the dataset into **MySQL Workbench** or any SQL IDE.
 2. Run `ola.sql` to create the required views and queries.
 3. Open `ola_dashboard.pbix` in **Power BI Desktop**.
-4. Connect it to your local dataset (if needed).
+
 
 ---
 
