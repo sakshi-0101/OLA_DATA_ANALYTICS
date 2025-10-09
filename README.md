@@ -40,11 +40,7 @@ The Power BI dashboard (`ola_dashboard.pbix`) visualizes:
 * Revenue and booking value analysis
 * Vehicle-type performance
 
-📸 **Dashboard Preview:**
-*(Add a screenshot of your dashboard here)*
-`/images/dashboard_preview.png`
 
----
 
 ### ⚙️ How to Run
 
